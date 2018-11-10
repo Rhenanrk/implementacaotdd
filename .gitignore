@@ -1,9 +1,9 @@
-# Intellij
-*.idea
-*implementacaotdd.iml
+
 
 # Compiled class file
 *.class
+*.idea
+*implementacaotdd.iml
 
 # Log file
 *.log
