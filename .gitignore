@@ -1,6 +1,6 @@
 # Intellij
-**.idea
-**implementacaotdd.iml
+*.idea
+*implementacaotdd.iml
 
 # Compiled class file
 *.class
